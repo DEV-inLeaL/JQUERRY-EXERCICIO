@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+.formulario{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.lista li{
+    list-style-type: disc;
+    text-align: left;
+    cursor: pointer;
+    
+}
+.riscado{
+    text-decoration: line-through;
+}
+
+
+
